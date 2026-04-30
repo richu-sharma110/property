@@ -1,0 +1,20 @@
+{
+  "demo": {
+    "password": "d3ad9315b7be5dd53b31a273b3b3aba5defe700808305aa16a3062b76658a791",
+    "name": "Demo User",
+    "phone": "9876543210",
+    "joined": "2024-01-01"
+  },
+  "abc": {
+    "password": "6ca13d52ca70c883e0f0bb101e425a89e8624de51db2d2392593af6a84118090",
+    "name": "abc",
+    "phone": "9999900000",
+    "joined": "2026-04-28"
+  },
+  "daksh": {
+    "password": "810adea26f16c44e55be1b904791089a8a5a6060c74dae33c10af23688839951",
+    "name": "Daksh",
+    "phone": "8974994837",
+    "joined": "2026-04-30"
+  }
+}
